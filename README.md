@@ -2,7 +2,7 @@
 
 *An immersive web experience exploring the relationship between technology, nature, and memory.*
 
-**Live Demo:** commen soon
+
 
 ---
 
